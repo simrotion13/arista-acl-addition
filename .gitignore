@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Ignore environment secrets
+.env
+
+# Virtual environments
+.venv
+
+# Ignore a folder at the root level
+inputs/
+outputs/
